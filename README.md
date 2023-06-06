@@ -14,7 +14,7 @@ Furasuko is my simple project using Python Flask and also BeautifulSoup4 to Scra
 ## Installation
 * Clone or download the zip archive of this repository
 * After that go to main directory of this project
-* Run the command `pip install -r require*.tx` to install the required modules
+* Run the command `pip install -r require*.txt` to install the required modules
 * Then run the program by typing `python main.py`
 
 ## Licence
