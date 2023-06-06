@@ -1,0 +1,2 @@
+
+from .furasuko import Furasuko
